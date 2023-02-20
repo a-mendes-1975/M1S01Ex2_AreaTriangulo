@@ -1,0 +1,15 @@
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex2_AreaTriangulo\obj\Debug\net7.0\M1S01Ex2_AreaTriangulo.csproj.AssemblyReference.cache
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex2_AreaTriangulo\obj\Debug\net7.0\M1S01Ex2_AreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex2_AreaTriangulo\obj\Debug\net7.0\M1S01Ex2_AreaTriangulo.AssemblyInfoInputs.cache
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex2_AreaTriangulo\obj\Debug\net7.0\M1S01Ex2_AreaTriangulo.AssemblyInfo.cs
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex2_AreaTriangulo\obj\Debug\net7.0\M1S01Ex2_AreaTriangulo.csproj.CoreCompileInputs.cache
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex2_AreaTriangulo\bin\Debug\net7.0\M1S01Ex2_AreaTriangulo.exe
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex2_AreaTriangulo\bin\Debug\net7.0\M1S01Ex2_AreaTriangulo.deps.json
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex2_AreaTriangulo\bin\Debug\net7.0\M1S01Ex2_AreaTriangulo.runtimeconfig.json
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex2_AreaTriangulo\bin\Debug\net7.0\M1S01Ex2_AreaTriangulo.dll
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex2_AreaTriangulo\bin\Debug\net7.0\M1S01Ex2_AreaTriangulo.pdb
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex2_AreaTriangulo\obj\Debug\net7.0\M1S01Ex2_AreaTriangulo.dll
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex2_AreaTriangulo\obj\Debug\net7.0\refint\M1S01Ex2_AreaTriangulo.dll
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex2_AreaTriangulo\obj\Debug\net7.0\M1S01Ex2_AreaTriangulo.pdb
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex2_AreaTriangulo\obj\Debug\net7.0\M1S01Ex2_AreaTriangulo.genruntimeconfig.cache
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex2_AreaTriangulo\obj\Debug\net7.0\ref\M1S01Ex2_AreaTriangulo.dll
