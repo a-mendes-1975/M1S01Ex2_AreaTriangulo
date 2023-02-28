@@ -17,10 +17,10 @@ namespace areaTriangulo
             */
 
             System.Console.WriteLine("Digite a Base do Triângulo: ");
-            int baseTriangulo = int.Parse(Console.ReadLine());
+            double baseTriangulo = double.Parse(Console.ReadLine());
             System.Console.WriteLine("Digite a altura do Triângulo: ");
-            int altura = int.Parse(Console.ReadLine());
-            int area = (baseTriangulo * altura) / 2;           
+            double altura = double.Parse(Console.ReadLine());
+            double area = (baseTriangulo * altura) / 2;
             System.Console.WriteLine("A área do triângulo é " + area);
 
         }
