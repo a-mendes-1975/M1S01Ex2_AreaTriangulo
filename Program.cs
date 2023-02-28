@@ -21,7 +21,7 @@ namespace areaTriangulo
             System.Console.WriteLine("Digite a altura do Triângulo: ");
             double altura = double.Parse(Console.ReadLine());
             double area = (baseTriangulo * altura) / 2;
-            System.Console.WriteLine("A área do triângulo é " + area);
+            System.Console.WriteLine("A área do triângulo é ==>" + area);
 
         }
     }
